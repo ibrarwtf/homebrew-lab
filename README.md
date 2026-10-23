@@ -13,4 +13,4 @@ brew install --cask claude-limits
 
 | Name | What | Source |
 |---|---|---|
-| `claude-limits` | Native macOS menu-bar app showing your Anthropic usage at a glance | [ibrarwtf/claude-limits](https://github.com/ibrarwtf/claude-limits) |
+| `claude-limits` | Native macOS menu-bar app showing your Claude usage at a glance (Windows build: [releases](https://github.com/ibrarwtf/claude-limits/releases/latest)) | [ibrarwtf/claude-limits](https://github.com/ibrarwtf/claude-limits) |
